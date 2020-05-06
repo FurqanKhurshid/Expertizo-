@@ -1,0 +1,249 @@
+.header{
+    background-color: #830400;
+    width: 900px;
+    height: 67px;
+    margin: auto;
+}
+.picone{
+    position: relative;
+    left: 25px;
+    background-color: #830400;
+}
+.head{
+    position: relative;
+    bottom: 30px;
+    left: 25px;
+    color: #CDA1A0;
+}
+.textsize{
+    color: #CDA1A0;
+    position: relative;
+    bottom: 50px;
+    left: 435px;
+    font-size: small;
+}
+.textlink{
+    color: #DDAC41;
+    position: relative;
+    right: 70px;
+    bottom: 50px;
+    left: 435px;
+    font-size: x-small;
+}
+.search{
+    width: 100px;
+    height: 12px;
+    position: relative;
+    bottom: 25px;
+    left: 290px;
+    font-size: xx-small;
+}
+.button{
+    position: relative;
+    width: 45px;
+    height: 20px;
+    left: 290px;
+    bottom: 25px;
+    font-size: xx-small;
+    background-color: #830400;
+    color: #CDA1A0;
+}
+.list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+   
+    
+}
+.second{
+    background-color: #E7E7E7;
+    width: 900px;
+    margin: auto;
+    height: 30px;
+
+}
+.link{
+    float: left;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 15px;
+    text-decoration: none;
+    color: #75787A;
+    font-size: smaller;
+    margin: -2px -3px;
+    border: 1px ridge #EAECEC;
+    font-weight: bolder;
+}
+.third{
+    width: 900px;
+    height: 750px;
+    margin: auto;
+    background-color: #FFFFFF;
+}
+body{
+    background-color: #262626;
+}
+.tfirst{
+    width: 145px;
+    height: 233px;
+    background-color: #EEEEEE;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    font-size: smaller;
+    list-style-type: none;
+}
+.li{
+    
+    color: #AF4775;
+    text-decoration: underline;
+    position: relative;
+    left: 20px;
+    top: 5px;
+    line-height: 20px;
+    list-style-type: none;
+   
+}
+.fourth{
+    position: relative;
+    bottom: 234px;
+    left: 185px;
+    color: #AC2B1F;
+    font-family: sans-serif;
+}
+.parahead{
+    position: relative;
+    bottom: 250px;
+    left: 185px;
+    color: #AC2B1F;
+}
+.para{
+    position: relative;
+    bottom: 260px;
+    font-size: smaller;
+    left: 185px;
+}
+.contents{
+    list-style: bullets;
+    display: contents;
+}
+.conthead{
+    position: relative;
+    color:#AC2B1F ;
+    bottom: 275px;
+    left: 185px;
+}
+.links{
+    color:#AC2B1F ;
+    
+}
+.a{
+    position: relative;
+}
+.pdiv{
+    position: relative;
+    bottom: 290px;
+    left: 240px;
+    font-size: smaller;
+}
+.status{
+    display: inline;
+    position: relative;
+    bottom: 275px;
+    left: 185px;
+    color: #AC2B1F;
+    font-weight: bolder;
+}
+.paratwo{
+    position: relative;
+    font-size: smaller;
+    bottom: 275px;
+    left: 185px;
+}
+.tier{
+    color:#AC2B1F ;
+}
+.row{
+    position: relative;
+    width: 50px;
+    width: 585px;
+    bottom: 275px;
+    left: 12px;
+}
+.latest{
+    position: relative;
+    bottom: 280px;
+    left: 185px;
+    color: #AC2B1F;
+}
+.news{
+    position: relative;
+    bottom: 285px;
+    font-size: smaller;
+    left: 185px;
+}
+.rowtwo{
+    position: relative;
+    width: 50px;
+    width: 585px;
+    bottom: 275px;
+    left: 12px;
+}
+.frequently{
+    position: relative;
+    bottom: 280px;
+    left: 185px;
+    color: #AC2B1F;
+}
+.questions a{
+    
+    color:#AC2B1F ;
+    bottom: 280px;
+    left: 185px;
+
+}
+.b{
+    color: black;
+    position: relative;
+    bottom: 280px;
+    left: 185px;
+
+}
+.install{
+    position: relative;
+    bottom: 280px;
+    left: 185px;
+    color: #AC2B1F;
+}
+.parathree{
+    position: relative;
+    font-size: smaller;
+    bottom: 285px;
+    left: 185px;
+
+}
+.use{
+    position: relative;
+    bottom: 280px;
+    left: 185px;
+    color: #AC2B1F;
+}
+.lin:before{
+    content: "\00BB";
+    color: #AF4775;
+    text-decoration: underline;
+    position: relative;
+    left: 15px;
+    top: 5px;
+    line-height: 20px;
+    list-style-type: none;
+    text-decoration: none;
+
+    
+}
+
+
+
+

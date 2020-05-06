@@ -1,0 +1,9 @@
+.image{
+    opacity: 0.3;
+    filter: blur;
+}
+.image:hover{
+    opacity: 1;
+    filter: alpha opacity(100);
+
+}

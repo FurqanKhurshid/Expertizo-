@@ -1,0 +1,191 @@
+.main{
+    border: 10px solid #DADADA;
+    
+    width: 800px;
+    height: 699px;
+    display: flex;
+    margin: auto;
+}
+.two{
+    border: 5px solid #73A8BF;
+    width: 800px;
+    height: 689px;
+    display: flex;
+    flex-direction: column;
+}
+.three{
+    border: 5px solid #FFBB93;
+    width: 751px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    justify-content: space-between;
+    
+    
+}
+
+.four{
+    width: 80px;
+    height: 50px;
+    background-color: #8E99F3;
+    display: flex;
+    justify-content:center ;
+    color: white;
+    align-items: center;
+    font-weight: bolder;
+    font-family: sans-serif;
+    
+
+    
+}
+.five{
+    width: 120px;
+    height: 50px;
+    background-color: #FF867C;
+    display: flex;
+    justify-content:center ;
+    color: white;
+    align-items: center;
+    font-weight: bolder;
+    font-family: sans-serif;
+    
+
+}
+.six{
+    width: 80px;
+    height: 50px;
+    background-color: #80D6FF;
+    display: flex;
+    justify-content:center ;
+    color: white;
+    align-items: center;
+    font-weight: bolder;
+    font-family: sans-serif;
+
+}
+.seven{
+    display: flex;
+}
+.between{
+    border: 9px solid #73A8BF;
+    width: 600px;
+    height: 400px;
+}
+.login{
+    border: 5px solid #73A8BF;
+    width: 525px;
+    height: 50px;
+    margin: 25px;
+    display: flex;
+    justify-content: flex-start ;
+
+}
+.loginone{
+    border: 5px solid #73A8BF;
+    width: 525px;
+    height: 50px;
+    margin: 25px;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+.logintwo{
+    border: 5px solid #73A8BF;
+    width: 525px;
+    height: 50px;
+    margin: 25px;
+    display: flex;
+
+}
+.lisa{
+    display: flex;
+    margin: 5px;
+    color: #36586A;
+    font-family: sans-serif;
+}
+.para{
+    display: flex;
+    margin: 25px -30px;
+    font-family: sans-serif;
+    color:#36586A ;
+    font-size: small;
+}
+.david{
+    display: flex;
+    margin: 5px;
+    color: #36586A;
+    font-family: sans-serif;
+}
+.betweentwo{
+    border: 9px solid #73A8BF;
+    width: 155px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+
+}
+.bet{
+    display: flex;
+    flex-direction: row;
+}
+.center{
+    display: flex;
+    width: 115px;
+    height: 70px;
+    background-color: #80D6FF;
+    margin: 15px 20px;
+}
+.box{
+    display: flex;
+    color: white;
+    margin: 5px 20px;
+}
+.footer{
+    border: 9px solid #73A8BF;
+    height: 205px;
+    display: flex;
+    align-items: center;
+}
+.threebuttons{
+    display: flex;
+    align-items: center;
+    margin: 0 44px;
+}
+.firstbutton{
+    background-color: #FF867C;
+    width: 150px;
+    height: 50px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+   
+}
+.secondbutton{
+    background-color: #80D6FF;
+    width: 385px;
+    height: 50px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+}
+.thirdbutton{
+    background-color: #98EE99;
+    width: 150px;
+    height: 50px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+}

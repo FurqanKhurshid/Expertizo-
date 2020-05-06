@@ -1,0 +1,388 @@
+
+ #main{
+    margin: 150px 50px 500px 419px;
+    
+}
+.first{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    border:50px;
+}
+
+
+.firstone{
+    width: 95px;
+    height: 90px;
+    border-radius: 120px 3px 0px 2px;
+    background-color: #005AA7;
+    position: relative;
+     
+    top: 1px;
+    opacity: 0.5;
+    
+    z-index: 1;
+}
+.firsttwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 77px 0px;
+    background-color: #89216B;
+    position: relative;
+    opacity: 0.9;
+    bottom: 90px;
+
+}
+.second{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    
+    left: 95px;
+    bottom: 90px;
+}
+.secondone{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 0px 322px;
+    background-color: #dd1818;
+    position: relative;
+    opacity: 0.9;
+    z-index: 1;
+    
+}
+.secondtwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 220px 0px 0px;
+    background-color: #cb2d3e;
+    position: relative;
+      
+    bottom:90px;
+    opacity: 0.5;
+}
+.third{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    bottom: 90px;
+}
+.thirdone{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 220px 0px 0px;
+    background-color: #C06C84;
+    position: relative;
+      
+    
+    opacity: 0.7;
+
+}
+.thirdtwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 0px 322px;
+    background-color: #6A82FB;
+    position: relative;
+    opacity: 0.9;
+    z-index: 1;
+    bottom: 90px;
+
+}
+.fourth{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    
+    left: 95px;
+    bottom: 180px;
+
+}
+.fourthone{
+    width: 95px;
+    height: 90px;
+    border-radius: 120px 3px 0px 2px;
+    background-color: #0083B0;
+    position: relative;
+     
+    top: 1px;
+    opacity: 0.5;
+    
+    z-index: 1;
+
+}
+.fourthtwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 77px 0px;
+    background-color: #c94b4b;
+    position: relative;
+    opacity: 0.9;
+    bottom: 90px;
+
+}
+
+.fifth{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    bottom: 360px;
+    left: 190px;
+}
+.fifthone{
+    width: 95px;
+    height: 90px;
+    border-radius: 120px 3px 0px 2px;
+    background-color: #0575E6;
+    position: relative;
+     
+    top: 1px;
+    opacity: 0.5;
+    
+    z-index: 1;
+
+}
+.fifthtwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 77px 0px;
+    background-color: #fdeff9;
+    position: relative;
+    opacity: 0.9;
+    bottom: 90px;
+
+}
+.six{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    
+    left: 285px;
+    bottom: 450px;
+
+}
+.sixone{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 0px 322px;
+    background-color: #e1eec3;
+    position: relative;
+    opacity: 0.9;
+    z-index: 1;
+}
+.sixtwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 220px 0px 0px;
+    background-color: #f05053;
+    position: relative;
+      
+    bottom:90px;
+    opacity: 0.5;
+}
+.seven{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    bottom: 450px;
+    left: 190px;
+}
+.sevenone{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 220px 0px 0px;
+    background-color: #b21f1f;
+    position: relative;
+      
+    
+    opacity: 0.7;
+
+}
+.seventwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 0px 322px;
+    background-color: #b21f1f;
+    position: relative;
+    opacity: 0.9;
+    z-index: 1;
+    bottom: 90px;
+
+}
+.eight{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    
+    left: 285px;
+    bottom: 540px;
+
+}
+.eightone{
+    width: 95px;
+    height: 90px;
+    border-radius: 120px 3px 0px 2px;
+    background-color: #ff9966;
+    position: relative;
+     
+    top: 1px;
+    opacity: 0.5;
+    
+    z-index: 1;
+
+}
+.eighttwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 77px 0px;
+    background-color: #ff5e62;
+    position: relative;
+    opacity: 0.9;
+    bottom: 90px;
+
+}
+.nine{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    bottom: 720px;
+    left: 380px;
+}
+.nineone{
+width: 95px;
+height: 90px;
+border-radius: 120px 3px 0px 2px;
+background-color: #d9a7c7;
+position: relative;
+ 
+top: 1px;
+opacity: 0.5;
+
+z-index: 1;
+}
+.ninetwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 77px 0px;
+    background-color: #fffcdc;
+    position: relative;
+    opacity: 0.9;
+    bottom: 90px;
+
+}
+.ten{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    bottom: 810px;
+    left: 475px;
+}
+.tenone{
+width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 0px 322px;
+    background-color: #CB356B;
+    position: relative;
+    opacity: 0.9;
+    z-index: 1;
+}
+.tentwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 220px 0px 0px;
+    background-color: #BD3F32;
+    position: relative;
+      
+    bottom:90px;
+    opacity: 0.5;
+}
+.ele{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    
+    left: 380px;
+    bottom: 809px;
+
+}
+.eleone{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 0px 322px;
+    background-color: #c0392b;
+    position: relative;
+    opacity: 0.9;
+    z-index: 1;
+}
+.eletwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 220px 0px 0px;
+    background-color: #8e44ad;
+    position: relative;
+      
+    bottom:90px;
+    opacity: 0.5;
+}
+.twe{
+    background-color: black;
+    width: 95px;
+    height: 90px;
+    position: relative;
+    
+    left: 475px;
+    bottom: 900px;
+}
+.tweone{
+    width: 95px;
+    height: 90px;
+    border-radius: 120px 3px 0px 2px;
+    background-color: #EB5757;
+    position: relative;
+     
+    top: 1px;
+    opacity: 0.5;
+    
+    z-index: 1;
+
+}
+.twetwo{
+    width: 95px;
+    height: 90px;
+    border-radius: 0px 0px 77px 0px;
+    background-color: #FF8235;
+    position: relative;
+    opacity: 0.9;
+    bottom: 90px;
+
+}
+.seconddiv{
+    position: relative;
+    bottom: 1399px;
+    left: 420px;
+}
+.thirddiv{
+    position: relative;
+    bottom: 2299px;
+    left: 420px;
+   
+}
+
+
+
+
+
+
+
+
+
